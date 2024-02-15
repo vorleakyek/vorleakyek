@@ -1,8 +1,5 @@
 ### About Me 
-I'm Vorleak, a QA specialist II at ALEKS. I've graduated from California State University, Long Beach with a master’s degree in Applied Mathematics in 2018. I recently completed a Bootcamp at LearningFuze in 2024. I know many technologies including React, TypeScript, JavaScript, HTML3, CSS3, Node.JS, PostgreSQL, Express, and more. 
-
-I'm interested in working as a Full Stack Web Developer to learn and build a full application from frontend to backend. I will continue to develop more full-stack applications and learn more technologies to advance my technical skills. 
-
+I'm Vorleak, a QA specialist II at ALEKS. I've graduated from California State University, Long Beach with a master’s degree in Applied Mathematics in 2018. I recently completed a Bootcamp at LearningFuze in 2024. I'm interested in working as a Full Stack Web Developer to learn and build a full application from frontend to backend. I will continue to develop more full-stack applications and learn more technologies to advance my technical skills.
 
 ### Skills 
 - Strong: JavaScript (ES6), HTML5, CSS3, React, TypeScript
@@ -12,7 +9,6 @@ I'm interested in working as a Full Stack Web Developer to learn and build a ful
 
 ### Links 
 - [Linked](https://www.linkedin.com/in/vorleakyek/)
-- [Resume](https://flowcv.com/resume/9lsgimu91i)
 
 ### Pulications
 [Numerical investigation on the projection method for the incompressible Navier-Stokes equations on MAC grid.](https://gradmath.org/wp-content/uploads/2020/10/Vorleak-Yek-GJM-2018.pdf)
