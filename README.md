@@ -14,3 +14,6 @@ I'm Vorleak, a QA specialist II at ALEKS. I graduated from CSULB with an Applied
   
 ### <img src="https://github.com/vorleakyek/vorleakyek/assets/76607726/3ad05b2a-d767-4e7c-b0f5-4ee7a11bb042" alt="image" width="50" height="50"> My Publication
 [Numerical investigation on the projection method for the incompressible Navier-Stokes equations on MAC grid.](https://gradmath.org/wp-content/uploads/2020/10/Vorleak-Yek-GJM-2018.pdf)
+
+
+<img src="CSULB_Particles.gif" alt="image" width="700" height="500">
