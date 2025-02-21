@@ -1,12 +1,15 @@
-### <img src="https://github.com/vorleakyek/vorleakyek/assets/76607726/71648c5a-b478-4be7-b24d-3696eca23623" alt="image" width="50" height="50"> About Me 
+### <img src="https://github.com/vorleakyek/vorleakyek/assets/76607726/71648c5a-b478-4be7-b24d-3696eca23623" alt="image" width="50" height="50"> About Me
+Full-Stack Developer Volunteer | QA Specialist II <br> 
+⭐ **3+ years** of experience in **frontend and backend development**, specializing in dynamic and responsive web applications. <br>
+⭐ **Full-Stack Developer** Volunteer at **Hack for LA**, collaborating on meaningful projects and continually expanding technical expertise. <br>
+⭐ **5 years as a Quality Assurance Specialist II** at **McGraw Hill ALEKS**, excelling in **attention to detail** and **problem-solving** within an **agile team environment.** 
 
-I'm Vorleak, a recent bootcamp graduate skilled in full-stack development skills and hands-on experience in React, TypeScript, HTML5, JavaScript (ES6), CSS3, Node.js, Express, and PostgreSQL. I've built responsive web applications, handling both front-end and back-end, and designed UI using Figma. 
 
-
-### <img src="https://github.com/vorleakyek/vorleakyek/assets/76607726/d2cc3620-9c7f-4648-9782-803514baf8c3" alt="image" width="50" height="50"> Skills 
-- Strong: React, JavaScript (ES6), HTML5, CSS3, TypeScript
-- Experienced: Node.js, Python, Express, PostgreSQL, Fetch API, Flexbox, Bootstrap, Tailwind
-- Tools: Git, GitHub, Figma, Confluence, JIRA, JAWS, AWS
+### <img src="https://github.com/vorleakyek/vorleakyek/assets/76607726/d2cc3620-9c7f-4648-9782-803514baf8c3" alt="image" width="50" height="50"> Tech Stack
+- Front-End: **React, JavaScript, TypeScript, Tailwind**
+- Back-End: **Node.js, Express, PostgreSQL, MongoDB**
+- Learning: **Python, Next.js, Three.js.** <br>
+- Tools: **Git, GitHub, Figma, Confluence, JIRA, JAWS, AWS**
 
 ### <img src="https://github.com/vorleakyek/vorleakyek/assets/76607726/46810d36-afa1-4c5d-9e99-c1ec6f9c892a" alt="image" width="50" height="50"> Let's connect!  
 - [LinkedIn](https://www.linkedin.com/in/vorleakyek/)
